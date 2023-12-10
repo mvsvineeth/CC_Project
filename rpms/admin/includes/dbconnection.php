@@ -1,9 +1,9 @@
 <?php 
 // DB credentials.
-define('DB_HOST','localhost');
-define('DB_USER','root');
-define('DB_PASS','');
-define('DB_NAME','rpmsdb');
+define('DB_HOST','rail.mysql.database.azure.com');
+define('DB_USER','rail');
+define('DB_PASS','Nikhitha@1');
+define('DB_NAME','railway');
 // Establish database connection.
 try
 {
